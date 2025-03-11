@@ -59,11 +59,11 @@ WebSockets | Firebase | REST APIs | State Management (Riverpod/BLoC)
 
 ## 📊 GitHub Stats & Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neutrino-18&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neutrino-18&layout=compact&theme=tokyonight)
 
 📈 **Streak Stats:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neutrino-18&theme=tokyonight)
 
 ---
 
