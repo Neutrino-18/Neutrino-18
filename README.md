@@ -64,7 +64,7 @@ WebSockets | Firebase | REST APIs | State Management (Riverpod/BLoC)
 
 📈 **Streak Stats:**  
 
-![GitHub Streak] (https://github-readme-streak-stats.herokuapp.com/?user=Neutrino-18&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neutrino-18&theme=tokyonight)
 
 ---
 
