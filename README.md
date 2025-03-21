@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a **Flutter Developer** and **Backend Enthusia
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 ### **⚡ Other Skills:**
-WebSockets | Firebase | REST APIs | State Management (Riverpod/BLoC)
+WebSockets | Firebase | UI/UX 
 
 ---
 
