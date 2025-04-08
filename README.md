@@ -42,9 +42,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neutrino-18&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neutrino-18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neutrino-18&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -52,14 +52,11 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=fire&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raghav-dave-27087225b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   <a href="https://twitter.com/your-twitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=fire&logoColor=white"/></a> -->
 </p>
 
 ---
 
-### 💬 Quote that drives me
-> “First, solve the problem. Then, write the code.” — John Johnson
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Neutrino-18&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/></p>
