@@ -24,7 +24,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=webrtc,redis,firebase,postgresql,vercel,vscode" />
+ ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 </p>
 
 ---
