@@ -1,9 +1,16 @@
 <h1 align="center">Hey 👋, I'm Raghav Dave </h1>
-<h3 align="center">🚀 Flutter Developer | ⚙️ Go Backend Engineer | 🎯 Real-Time Systems Enthusiast</h3>
+<h3 align="center">🚀 Flutter Developer | ⚙️ UI UX Designer | 🎯 2D Games Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Building+real-time+Flutter+apps...;Scaling+Go+backends+with+WebSockets+%26+WebRTC;Designing+UI%2FUX+that+delights;Learning+every+single+day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5C6BC0&center=true&vCenter=true&width=435&lines=Building+real-time+Flutter+apps📱;Designing+UI%2FUX+that+delights💪;Learning+every+single+day+🚀" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxrYWljdHN1YWxiMGE2M3Z4YzB4b2pmMDlqbHNsejNncnI5OXFlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" width="500"/>
+</p>
+
+
+
 
 ---
 
@@ -13,7 +20,7 @@
 - 🧠 Deep into **real-time tech** like **WebRTC**, **WebSockets**, and **event-driven systems**
 - 🎯 Backend: Go + PostgreSQL (with PostGIS for geospatial magic)
 - 🎨 Frontend: Flutter with stunning UI/UX precision
-- 🌱 Always learning: DSA | Clean Architecture | System Design
+- 🌱 Currently learning: Clean Architecture | System Design | Pixel Art
 
 ---
 
