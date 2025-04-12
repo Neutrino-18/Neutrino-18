@@ -16,19 +16,23 @@
 
 ### 💡 About Me
 
-- 🛠️ Currently building a **pan-India Smart Parking App** to reduce congestion and accidents 🚗
-- 🧠 Deep into **real-time tech** like **WebRTC**, **WebSockets**, and **event-driven systems**
-- 🎯 Backend: Go + PostgreSQL (with PostGIS for geospatial magic)
-- 🎨 Frontend: Flutter with stunning UI/UX precision
-- 🌱 Currently learning: Clean Architecture | System Design | Pixel Art
+- 🛠️ Currently working on a **Smart Parking App** to reduce traffic congestion and road accidents
+- 🎨 Frontend: `Flutter` — focused on beautiful, responsive UI/UX  
+- 🧠 Backend: `Go` + `PostgreSQL` (with `PostGIS` for geospatial magic)  
+- 🔁 Exploring **real-time technologies**: `WebRTC`, `WebSockets`, & event-driven systems
+- 🌱 Always learning:
+  - ⚙️ `Clean Architecture`
+  - 🧩 `System Design`
+  - 🎨 `Pixel Art`
+
 
 ---
 
 ### ⚙️ Tech Stack
 
-| Dart | Flutter | Firebase | Supabase | Figma | PostgreSQL | Go | Unity | C# |
-|------|---------|----------|----------|-------|------------|----|-------|----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/> |
+| Dart | Flutter | Firebase | Supabase | Go | PostgreSQL | Figma | Flame | Unity | C# |
+|------|---------|----------|----------|----|------------|-------|-------|-------|----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/> | <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/> | <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/> | <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/> | <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> | <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> | <h1 align="center"> 🔥 </h1> | <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> |
 
 
 ### 🌟 Featured Projects
