@@ -40,7 +40,7 @@
 | 🚀 Project | 🔎 Description |
 |-----------|----------------|
 | **Smart Parking App** | 🔧 A national-scale solution using Flutter + Go + WebRTC + PostGIS to manage real-time parking |
-| **Live Chat System** | 📡 Realtime chat built with Go, WebSockets, and a responsive Flutter frontend |
+| **Ambient Accountability App** | 📡 A ambient companion's app built with Go, WebSockets, and a responsive Flutter frontend |
 | **Go + Flutter Clean Boilerplate** | 🧱 A scalable starter template using Clean Architecture, ideal for full-stack cross-platform apps |
 
 ---
