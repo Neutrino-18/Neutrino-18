@@ -58,7 +58,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-<!--   <a href="https://www.linkedin.com/in/raghav-dave-27087225b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+   <a href="https://www.linkedin.com/in/raghav-dave-27087225b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <!--   <a href="https://twitter.com/your-twitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=fire&logoColor=white"/></a> -->
 </p>
