@@ -48,7 +48,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neutrino-18&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=Neutrino-18&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neutrino-18&layout=compact&theme=tokyonight" />
 </p>
