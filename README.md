@@ -13,7 +13,6 @@
 
 
 ---
-
 ### 💡 About Me
 
 - 🛠️ Currently working on a **Smart Parking App** to reduce traffic congestion and road accidents
