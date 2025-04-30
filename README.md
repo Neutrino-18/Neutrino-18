@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Raghav Dave </h1>
+<h1 align="center">Hey 👋, I'm Raghav Dave </h1> 
 <h3 align="center">🚀 Flutter Developer | ⚙️ UI UX Designer | 🎯 2D Games Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5C6BC0&center=true&vCenter=true&width=435&lines=Building+real-time+Flutter+apps📱;Designing+UI%2FUX+that+delights💪;Learning+every+single+day+🚀" alt="Typing SVG" />
