@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+ 
 ### 🔍 About Me (aka what I do instead of sleeping)
 
 - 🛠️ Currently building a **Smart Parking App** to make traffic ✨disappear✨
