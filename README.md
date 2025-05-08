@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5C6BC0&center=true&vCenter=true&width=435&lines=Building+real-time+Flutter+apps📱;Designing+UI%2FUX+that+vibes✨;Pixel+art+and+clean+code+combo🧠🎨;Never+not+learning+🚀" alt="Typing SVG" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxrYWljdHN1YWxiMGE2M3Z4YzB4b2pmMDlqbHNsejNncnI5OXFlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" width="500"/>
