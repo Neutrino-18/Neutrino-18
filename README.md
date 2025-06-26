@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Dev 🚀 | UI/UX Nerd 🎨 | Projected Game Dev 🎮</h3>  
   
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5C6BC0&center=true&vCenter=true&width=435&lines=Building+real-time+Flutter+apps📱;Designing+UI%2FUX+that+vibes✨;Pixel+art+and+clean+code+combo🧠🎨;Never+not+learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5C6BC0&center=true&vCenter=true&width=435&lines=Building+real-time+Flutter+apps📱;Designing+UI%2FUX+that+vibes✨;Pixel+art+and+clean+code+combo🧠🎨;Never+not+learning+🚀" alt="Typing SVG" /> 
 </p>  
 
 <p align="center">
