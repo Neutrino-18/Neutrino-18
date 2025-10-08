@@ -1,8 +1,8 @@
 <h1 align="center">Yo 👾 I'm Raghav Dave</h1>          
-<h3 align="center">Flutter Dev 🚀 | UI/UX Nerd 🎨 | Projected Game Dev 🎮</h3>  
+<h3 align="center">Flutter, Go and a glass full of UI/UX </h3>  
       
-<p align="center">    
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5C6BC0&center=true&vCenter=true&width=435&lines=Building+real-time+Flutter+apps📱;Designing+UI%2FUX+that+vibes✨;Pixel+art+and+clean+code+combo🧠🎨;Never+not+learning+🚀" alt="Typing SVG" />   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5C6BC0&center=true&vCenter=true&width=435&lines=Building+real-time+apps📱;Designing+UI%2FUX+that+floats✨;Pixel+art🎨;Never+not+learning+🚀" alt="Typing SVG" />   
 </p>      
   
 <p align="center">     
@@ -11,16 +11,16 @@
   
 ---
  
-### 🔍 About Me (aka what I do instead of sleeping)
+### 🔍 About Me 😎
 
-- 🛠️ Currently building a **Smart Parking App** to make traffic ✨disappear✨
-- 📱 Crafting slick UI/UX in `Flutter`, because ugly apps hurt my soul
-- 🧠 Backend sorcery: `Go`, `PostgreSQL` + `PostGIS` for geo-wizardry
-- ⚡ Real-time stuff like `WebRTC`, `WebSockets`, and event-driven shenanigans
+- 🛠️ Currently working on a **peer-to-peer** file sharing tool.
+- 📱 Crafting slick UI/UX with `Flutter`, because ugly apps hurt my soul
+- 🧠 Backend sorcery: `Go`, `PostgreSQL` and `Redis` 
+- ⚡ Real-time stuff with `WebRTC`, `WebSockets`, and event-driven shenanigans
 - 🎯 Always leveling up:
-  - Clean Architecture 🧼
+  - Pixel Art 🎨
   - System Design 🧩
-  - Pixel Art 🧃
+  - Containerizationa🧃
 
 ---
 
