@@ -36,9 +36,9 @@
 
 | 🛠️ Project | 🧠 What's it do? |
 |------------|------------------|
-| **Smart Parking App** | A city-level system using Flutter + Firebase + WebRTC to unfry traffic brains 🧠🚗 |
-| **Ambient Accountability App** | Real-time buddy system with Go + WebSockets + Vibe-checked UI |
-| **Clean Boilerplate (Go + Flutter)** | Kickstart your full-stack app like a pro. Clean arch, scalable vibes. |
+| **Orbit** | A real-time push-to-talk voice chat application using peer-to-peer connection🧠🚗. |
+| **MoveBy** | A social media platform where the user's content maps to a specific location on a map🗺️. |
+| **TestIt** | A student management app which enables efficient attendance marking, resource sharing and overall management of the student. |
 
 ---
 
